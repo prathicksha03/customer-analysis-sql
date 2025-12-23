@@ -11,6 +11,15 @@ The analysis is performed in Google Colab using DuckDB.
 - Customers dataset (99k+ records)
 - Columns: customer_id, customer_city, customer_state, customer_zip_code_prefix
 
+## Dataset Source
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**,
+available on Kaggle.
+
+Source: Kaggle – Olist Brazilian E-Commerce Dataset  
+The dataset contains real anonymized customer data used for academic and
+learning purposes.
+
+
 ## Tools Used
 - SQL
 - DuckDB
